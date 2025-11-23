@@ -1,4 +1,4 @@
-# [📌　　　　　　　　broken-groups-finder.js](steam-tools/scripts/broken-groups-finder.js)
+# [📌　　　　　　　broken-groups-finder.js](/scripts/broken-groups-finder.js)
 
 > [!NOTE]
 > * detect and highlight both, groups with a broken image and ones with abnormal image scaling
@@ -10,7 +10,7 @@
 
 # ⁣
 
-# [📌　　　　　　　　　　game-filter.js](steam-tools/scripts/game-filter.js)
+# [📌　　　　　　　　　game-filter.js](/scripts/game-filter.js)
 
 > [!TIP]
 > * `S - save current results`　`P - pause script`
@@ -28,14 +28,14 @@
 
 # ⁣
 
-# [📌　　　　　　　　　game-opener.bat](steam-tools/scripts/game-opener.bat)
+# [📌　　　　　　　　game-opener.bat](/scripts/game-opener.bat)
 
 > [!NOTE]
 > * open / close the game in a loop, with respectful delay
 
 # ⁣
 
-# [📌　　　　　　　　　gid64-list-export.js](steam-tools/scripts/gid64-list-export.js)
+# [📌　　　　　　　　gid64-list-export.js](/scripts/gid64-list-export.js)
 
 > [!NOTE]
 > * prints entire group section as a `GID64` structure, and saves report as a .txt file, in Downloads folder
@@ -45,7 +45,7 @@
 
 # ⁣
 
-# [📌　　　　　　　　　　gid64-listing.js](steam-tools/scripts/gid64-listing.js)
+# [📌　　　　　　　　　gid64-listing.js](/scripts/gid64-listing.js)
 
 > [!NOTE]
 > * prints entire group section as a `GID64` structure, simplified
@@ -55,7 +55,7 @@
 
 # ⁣
 
-# [📌　　　　　　　　　　item-to-gems.js](steam-tools/scripts/item-to-gems.js)
+# [📌　　　　　　　　　item-to-gems.js](/scripts/item-to-gems.js)
 
 > [!NOTE]
 > * pops a message window with item worth in gems
@@ -66,14 +66,14 @@
 
 # ⁣
 
-# [📌　　　　　　　　　status-changer.bat](steam-tools/scripts/status-changer.bat)
+# [📌　　　　　　　　status-changer.bat](/scripts/status-changer.bat)
 
 > [!NOTE]
 > * mini dashboard for steam
 
 # ⁣
 
-# [📌　　　　　　　　　　status-spam.bat](steam-tools/scripts/status-spam.bat)
+# [📌　　　　　　　　　status-spam.bat](/scripts/status-spam.bat)
 
 > [!NOTE]
 > * status-spam-changer for steam
